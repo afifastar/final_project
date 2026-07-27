@@ -4,5 +4,5 @@
 - Mohammed Zakari
 
 ## Tasks Assigned
-**Afifa Khalid:** Responsible for the Classes Person and Student
-**Mohammed Zakari:** Responsible for the Classes Course and Program
+- **Afifa Khalid:** Responsible for the Classes Person and Student
+- **Mohammed Zakari:** Responsible for the Classes Course and Program
