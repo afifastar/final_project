@@ -42,8 +42,8 @@ class Student: public Person {
         Student(const Student& other);
         ~Student();
 
-        void display() const;
-        std::string name() const;
+        void display() const override;
+        std::string name() const override;
         void add_course(Course& course);
 
         friend class Program;
