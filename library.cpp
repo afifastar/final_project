@@ -3,6 +3,7 @@
 #include <iostream>
 #include <algorithm>
 #include <fstream>
+#include <sstream>
 
 // AFIFA KHALID: RESPONSIBLE FOR THE CLASSES PERSON AND STUDENT
 // PERSON CLASS

@@ -62,6 +62,7 @@ class Course {
 
         void display() const;
         std::string code() const;
+        std::string name() const;
         void add_student(Student& student);
         void display_students() const;
 };
